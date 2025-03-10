@@ -1,0 +1,44 @@
+# Contribution Guidelines
+
+We welcome contributions to **SnapTik**! Please read the following guidelines before contributing.
+
+## How to Contribute
+
+1. **Fork** this repository.
+2. **Clone** the forked repository to your local machine.
+3. Create a new branch (`git checkout -b feature-name`).
+4. Implement your changes following the project's coding standards.
+5. Commit and push your changes (`git commit -m "Add feature X"`).
+6. Open a **Pull Request** to the main branch.
+
+## Reporting Issues
+
+If you find a bug or issue, please:
+
+- Check if it has already been reported.
+- Provide a clear description of the issue.
+- Include steps to reproduce the bug.
+
+## Suggesting Features
+
+If you have an idea for a new feature:
+
+- Describe the feature and why it would be useful.
+- Provide mockups or examples if possible.
+- Discuss the feature before implementing it.
+
+## Code of Conduct
+
+We strive to maintain an inclusive and respectful community. Please:
+
+- Be kind and respectful.
+- Avoid offensive comments.
+- Help others when possible.
+
+## Review Process
+
+- PRs are reviewed within **48 hours**.
+- Maintain code readability and efficiency.
+- Address requested changes promptly.
+
+Thank you for contributing! 🚀
