@@ -1,0 +1,23 @@
+SnapTik/
+│── public/
+│   ├── index.html
+│   ├── manifest.json
+│── src/
+│   ├── index/
+│   │   ├── index.js
+│   │   ├── index.css
+│   ├── components/
+│   │   ├── ExpenseForm.js
+│   │   ├── ExpenseForm.css
+│   │   ├── ExpenseList.js
+│   │   ├── ExpenseList.css
+│   │   ├── Header.js
+│   │   ├── Header.css
+│   │   ├── Receipt.js
+│   │   ├── Receipt.css
+│   ├── App.js
+│   ├── App.css
+│   ├── App.test.js
+│── package.json
+│── README.md
+│── CONTRIBUTING.md
