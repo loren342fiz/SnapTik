@@ -22,6 +22,6 @@ SnapTik is a powerful web application that allows users to track and manage thei
 ## Author
 **John Doe**  
 Email: johndoe@example.com  
-Website: SnapTik
+Website: [SnapTik](https://wwwsnaptik.com)
 
 John is a passionate full-stack developer specializing in JavaScript, React, and Node.js. He has years of experience in building scalable web applications and is dedicated to open-source contributions and community support.
